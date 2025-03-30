@@ -1,1 +1,8 @@
 link instagram: https://www.instagram.com/p/DH1EIYAywsS91SEEMpaeNsAbWU6hk5gRhKfCpg0/?img_index=7&igsh=aTR4ZHdmbTJyaXNl
+
+git clone https://github.com/AnisaIntania/IMK.git
+cd repository
+mv /path/to/your/file.pdf .
+git add file.pdf
+git commit -m "Menambahkan file PDF"
+git push origin main
